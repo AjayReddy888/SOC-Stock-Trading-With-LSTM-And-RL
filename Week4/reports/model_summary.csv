@@ -1,0 +1,5 @@
+model,n_train,n_test,RMSE,MAE,dir_acc,f1
+base_lstm,1935,571,0.03503,0.0267,0.536,0.698
+uptrend_lstm,992,294,0.03337,0.026,0.446,0.0
+downtrend_lstm,273,82,0.04587,0.03508,0.561,0.71
+sideways_bilstm,551,164,0.02644,0.01857,0.457,0.043
