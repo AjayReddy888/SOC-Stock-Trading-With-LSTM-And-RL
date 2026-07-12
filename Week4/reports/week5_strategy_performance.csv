@@ -1,0 +1,6 @@
+Strategy,Total Return (%),Ann. Return (%),Sharpe Ratio,Max Drawdown (%),Daily Std (%),Win Rate (%)
+S1: Regime Routed,-12.49,-1.98,-0.912,16.1,0.27,57.1
+S2: Momentum+LSTM,100.93,11.05,0.631,25.29,0.964,65.7
+S3: Mean Reversion,11.37,1.63,-0.131,3.71,0.167,38.5
+S4: Volatility Breakout,121.33,12.67,0.869,25.12,0.775,68.4
+Buy & Hold (benchmark),109.99,11.79,0.443,69.0,2.105,52.7
